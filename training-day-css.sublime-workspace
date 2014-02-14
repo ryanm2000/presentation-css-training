@@ -75,14 +75,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "index.html",
-			"settings":
-			{
-				"buffer_size": 3670,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -252,6 +244,11 @@
 	},
 	"file_history":
 	[
+		"/C/Users/ryan.margheriti/Projects/training-day-css/Gruntfile.coffee",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/templates/_index.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/slides/basics.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/css/source/theme.scss",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/reveal.js/Gruntfile.js",
 		"/C/Users/ryan.margheriti/Projects/training-day-css/package.json",
 		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_posts/2014-01-10-sass.markdown",
 		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_posts/2013-06-01-grunt.markdown",
@@ -374,12 +371,7 @@
 		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/bad-variable-declaration1.less",
 		"/C/src/Csn.Styleguide/node_modules/grunt-styleguide/test/expected/styledocco/docs/bootstrap/less/components-variables.html",
 		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-cssmin/test/expected/input_bannered.css",
-		"/C/src/Csn.Styleguide/site/styleguide/public/kss.less",
-		"/C/src/Csn.Styleguide/dist/styleguide/public/kss.less",
-		"/C/src/Csn.Styleguide/dist/styleguide/public/kss.css",
-		"/C/src/Csn.Styleguide/node_modules/grunt-styleguide/node_modules/kss/lib/kss_section.js",
-		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-connect/CHANGELOG",
-		"/C/src/Csn.Styleguide/node_modules/grunt-styleguide/node_modules/kss/demo/elements/buttons.less"
+		"/C/src/Csn.Styleguide/site/styleguide/public/kss.less"
 	],
 	"find":
 	{
@@ -390,6 +382,7 @@
 		"height": 90.0,
 		"where_history":
 		[
+			"*.scss",
 			"*.less",
 			"",
 			"*.less",
@@ -513,6 +506,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bodyBackground",
 			"index",
 			"clipTechnique",
 			"that",
@@ -639,8 +633,7 @@
 			".media-gallery-header",
 			".popup-media-gallery",
 			"mediagalleryinpop",
-			"ryvus",
-			".panel"
+			"ryvus"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -681,43 +674,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "index.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 3670,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								542,
-								542
-							]
-						],
-						"settings":
-						{
-							"color_scheme": "Packages/InactivePanes_/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 340.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -771,6 +729,10 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"gruntfile",
+				"Gruntfile.coffee"
+			],
 			[
 				"sas",
 				"_posts\\2014-01-10-sass.markdown"
@@ -918,10 +880,6 @@
 			[
 				"stylecarsalesless",
 				"src\\less\\skin\\carsales\\style-carsales.less"
-			],
-			[
-				"gruntfile",
-				"Gruntfile.js"
 			],
 			[
 				"stylecares",

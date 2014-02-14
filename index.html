@@ -1,110 +1,51 @@
 <!doctype html>
 <html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=1024" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <title>CSS Training</title>
 
-    <head>
-        <meta charset="utf-8">
+    <meta name="description" content="impress.js is a presentation tool based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com." />
 
-        <title>CSS Training</title>
+    <link href="http://fonts.googleapis.com/css?family=Open+Sans:regular,semibold,italic,italicsemibold|PT+Sans:400,700,400italic,700italic|PT+Serif:400,700,400italic,700italic" rel="stylesheet" />
 
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-
-        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-
-        <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.min.css">
-
-        <link rel="stylesheet" href="css/theme.css" id="theme">
-
-
-        <!-- For syntax highlighting -->
-        <link rel="stylesheet" href="bower_components/reveal.js/lib/css/zenburn.css" id="highlight-theme">
-
-        <!-- If the query includes 'print-pdf', use the PDF print sheet -->
-        <script>
-          document.write( '<link rel="stylesheet" href="bower_components/reveal.js/css/print/' + ( window.location.search.match( /print-pdf/gi ) ? 'pdf' : 'paper' ) + '.css" type="text/css" media="print">' );
-        </script>
-
-        <!--[if lt IE 9]>
-        <script src="lib/js/html5shiv.js"></script>
-        <![endif]-->
-    </head>
-
-    <body>
-
-        <div class="reveal">
-
-            <div class="slides">
-
-                
-                    
-                        
-    <section data-markdown="slides/index.md"></section>
+    <link href="bower_components/impress.js/css/impress-demo.css" rel="stylesheet" />
+    <link href="css/impressConsole.css" rel="stylesheet" />
+    <link href="css/main.css" rel="stylesheet" />
 
 
-                    
-                    
-                
-                    
-                        
-    <section data-html="slides/basics.html"></section>
+    <link rel="shortcut icon" href="favicon.png" />
+    <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+</head>
+
+<body>
+
+<div id="impress" class="steps">
+</div>
 
 
-                    
-                    
-                
-                    
-                        
-    <section data-html="slides/what-is-css.html"></section>
+  <script src="bower_components/jquery/jquery.js"></script>
+  <script src="bower_components/handlebars/handlebars.js"></script>
+  <script src="bower_components/impress.js/js/impress.js"></script>
+  <script src="js/impressConsole.js"></script>
+  <script src="js/main.js"></script>
+
+  <script id="step-template" type="x-handlebars-template">
+    <div id="{{id}}" class="{{class}}"{{#step data}}{{uri}}{{/step}}>{{{file}}}</div>
+  </script> 
+
+  <script>
+  // First, get sorted slide list
+
+  $.getJSON('steps/list.json', function(data) {
+    // Append ordered slides
+    appendSlides(data);
+    impress().init();
+    impressConsole().init();
+  });
+  </script>
 
 
-                    
-                    
-                
-                    
-                        
-    <section data-html="slides/selectors.html"></section>
-
-
-                    
-                    
-                
-            </div>
-
-        </div>
-
-        <script src="bower_components/reveal.js/lib/js/head.min.js"></script>
-        <script src="bower_components/reveal.js/js/reveal.min.js"></script>
-        <script>
-            // Configure Reveal
-            // Full list of configuration options available here:
-            // https://github.com/hakimel/reveal.js#configuration
-            Reveal.initialize({
-                controls: true,
-                progress: true,
-                history: true,
-                center: true,
-                transition: 'page',
-                backgroundTransition: 'default',
-
-                theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-                //transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
-
-                // Optional libraries used to extend on reveal.js
-                dependencies: [
-                    { src: 'bower_components/reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-                    { src: 'bower_components/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                    { src: 'bower_components/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-                    { src: 'bower_components/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-                    { src: 'bower_components/reveal.js/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
-                    { src: 'bower_components/reveal.js/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } },
-                    // { src: 'plugin/search/search.js', async: true, condition: function() { return !!document.body.classList; } }
-                    //{ src: 'bower_components/reveal.js/plugin/remotes/remotes.js', async: true, condition: function() { return !!document.body.classList; } }
-
-                    { src: 'js/loadhtmlslides.js', condition: function() { return !!document.querySelector( '[data-html]' ); } }
-                ]
-            });
-        </script>
-
-    </body>
-
+</body>
 </html>
