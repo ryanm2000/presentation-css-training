@@ -21,10 +21,11 @@ module.exports = function (grunt) {
                 files: [
                     'index.html',
                     'js/*.js',
-                    'css/*.css',
+                    'css/*.scss',
                     'steps/*.html',
                     'steps/list.json'
-                ]
+                ],
+                tasks: ['sass'],
             }
         },
         connect: {
@@ -48,8 +49,19 @@ module.exports = function (grunt) {
             server: {
                 path: 'http://localhost:<%= connect.options.port %>'
             }
-        }
+        },
+        sass: {                              // Task
+            dist: {                            // Target
+              options: {                       // Target options
+                style: 'compressed'
+              },
+              files: {                         // Dictionary of files
+                'css/main.css': 'css/main.scss'       // 'destination': 'source'
+              }
+            }
+          }
     });
 
     grunt.registerTask('server', ['connect:livereload', 'open', 'watch']);
+    grunt.registerTask('default', 'server');
 };
