@@ -1,0 +1,1697 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"jsScro",
+				"jsScrollCancel"
+			],
+			[
+				"jsScroll",
+				"jsScrollCancel"
+			],
+			[
+				"scroll",
+				"scrollCancel"
+			],
+			[
+				"hover",
+				"hoverTarget"
+			],
+			[
+				"text",
+				"textIndent"
+			],
+			[
+				"time",
+				"timeoutID"
+			],
+			[
+				"panel-messa",
+				"panel-message-success"
+			],
+			[
+				"border-ra",
+				"border-bottom-left-radius"
+			],
+			[
+				"media-",
+				"media-object"
+			],
+			[
+				"has",
+				"hasThumbHover"
+			],
+			[
+				"style",
+				"style	HTML - Stylesheet link"
+			],
+			[
+				"We",
+				"Web"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"background",
+				"background-attachment"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			],
+			[
+				"new",
+				"newAddon"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "css/main.scss",
+			"settings":
+			{
+				"buffer_size": 417,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 86,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Gruntfile.js",
+			"settings":
+			{
+				"buffer_size": 2081,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1654,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bower_components/impress.js/css/impress-demo.css",
+			"settings":
+			{
+				"buffer_size": 12745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "steps/list.json",
+			"settings":
+			{
+				"buffer_size": 578,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "steps/basics.html",
+			"settings":
+			{
+				"buffer_size": 191,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"markdown",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"mardown",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"tasks",
+				"Tasks: Open URL"
+			],
+			[
+				"tas",
+				"Tasks: New document"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packageinstall",
+				"Package Control: Install Package"
+			],
+			[
+				"we",
+				"Word Wrap: Toggle"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"About"
+			],
+			[
+				"mark",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"admin",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"pacage",
+				"Package Control: Remove Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"PACKAGE",
+				"Package Control: Install Package"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"Snippet: ",
+				"Snippet: CSS Section Comment"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"comb",
+				"Sort via CSScomb"
+			],
+			[
+				"delete",
+				"Snippet: <video> with legacy object"
+			],
+			[
+				"note",
+				"Tasks: New document"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"packali",
+				"Package Control: List Packages"
+			],
+			[
+				"packlist",
+				"Package Control: List Packages"
+			],
+			[
+				"paclage",
+				"Package Control: Install Package"
+			],
+			[
+				"task",
+				"Tasks: New document"
+			],
+			[
+				"packageinst",
+				"Package Control: Install Package"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"sublime",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"packinsta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 576.0
+	},
+	"console":
+	{
+		"height": 417.0,
+		"history":
+		[
+			"exit"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/ryan.margheriti/Projects/training-day-css/css/impressConsole.css",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/test/data/if_modified_since.php",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/Gruntfile.coffee",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/templates/_index.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/slides/basics.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/css/source/theme.scss",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/reveal.js/Gruntfile.js",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/package.json",
+		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_posts/2014-01-10-sass.markdown",
+		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_posts/2013-06-01-grunt.markdown",
+		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_includes/footer.html",
+		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_layouts/post.html",
+		"/C/Users/ryan.margheriti/AppData/Roaming/Sublime Text 3/Packages/Markdown Preview/MarkdownPreview.sublime-settings",
+		"/C/Users/ryan.margheriti/AppData/Roaming/Sublime Text 3/Packages/User/MarkdownPreview.sublime-settings",
+		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_posts/2014-01-29-sass.markdown",
+		"/C/Users/ryan.margheriti/AppData/Local/Temp/Temp1_erjjones-erjjones.github.com-a83ecc6.zip/erjjones-erjjones.github.com-a83ecc6/_posts/2012-03-08-How-I-built-my-blog-in-one-day.markdown",
+		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_posts/2014-01-01-first.markdown",
+		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_includes/navigation.html",
+		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/index.html",
+		"/C/Users/ryan.margheriti/AppData/Local/Temp/Temp1_erjjones-erjjones.github.com-a83ecc6.zip/erjjones-erjjones.github.com-a83ecc6/_includes/tag_sidebar.html",
+		"/C/Users/ryan.margheriti/AppData/Local/Temp/Temp1_erjjones-erjjones.github.com-a83ecc6.zip/erjjones-erjjones.github.com-a83ecc6/_includes/first_post.html",
+		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_posts/first.markdown",
+		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/blog.sublime-project",
+		"/C/Users/ryan.margheriti/AppData/Local/Temp/Temp1_erjjones-erjjones.github.com-a83ecc6.zip/erjjones-erjjones.github.com-a83ecc6/_config.yml",
+		"/C/Users/ryan.margheriti/Desktop/things.todo",
+		"/C/Users/ryan.margheriti/Projects/text-overflow-scroll.js/README.md",
+		"/C/Users/ryan.margheriti/Projects/text-overflow-scroll.js/scripts/lib/jquery.js",
+		"/C/Users/ryan.margheriti/Projects/text-overflow-scroll.js/scripts/lib/modernizr.js",
+		"/C/Users/ryan.margheriti/Projects/text-overflow-scroll.js/js/text-overflow-scroll.js",
+		"/C/Users/ryan.margheriti/Projects/text-overflow-scroll.js/scripts/jquery.js",
+		"/C/src/Csn.Styleguide/src/less/skin/bikesales/variables-bikesales.less",
+		"/C/src/Csn.Styleguide/site/images/member-centre-icons.svg",
+		"/C/src/Csn.Styleguide/src/less/base/_mixins.less",
+		"/C/src/Csn.Styleguide/src/less/components/_media.less",
+		"/C/src/Csn.Styleguide/src/less/skin/carsales/variables-carsales.less",
+		"/C/src/Csn.Styleguide/src/less/components/_buttons.less",
+		"/C/src/Csn.Styleguide/src/less/components/_forms.less",
+		"/C/src/Csn.Styleguide/src/less/base/_scaffolding.less",
+		"/C/src/Csn.Styleguide/release-notes.TODO",
+		"/C/src/Csn.Styleguide/src/less/components/_grid.less",
+		"/C/src/Csn.Styleguide/src/less/components/_panels.less",
+		"/C/src/Csn.Styleguide/.gitignore",
+		"/C/src/Csn.Styleguide/src/less/components/_loader.less",
+		"/C/src/Csn.Styleguide/src/less/library.less",
+		"/C/src/Csn.Styleguide/src/less/base/_variables.less",
+		"/C/Users/ryan.margheriti/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/src/Csn.Styleguide/src/less/components/_badges.less",
+		"/C/src/Csn.Styleguide/package.json",
+		"/C/src/Csn.Styleguide/Gruntfile.js",
+		"/C/src/Csn.Styleguide/src/less/components/_layouts.less",
+		"/C/src/Csn.Styleguide/site/fonts/icons/csn-icons.woff",
+		"/C/src/Csn.Styleguide/site/fonts/icons/csn-icons.svg",
+		"/C/src/Csn.Styleguide/src/less/skin/common/common-header.less",
+		"/C/src/Csn.Styleguide/src/jade/common/includes/header.jade",
+		"/C/src/Csn.Styleguide/src/jade/bikesales/includes/head.jade",
+		"/C/src/Csn.Styleguide/doc/code-guide/html.md",
+		"/C/src/Csn.Styleguide/src/less/components/_star-rating.less",
+		"/C/src/Csn.Styleguide/validation-status.json",
+		"/C/src/Csn.Styleguide/src/css/carsales/style-carsales.css",
+		"/C/src/Csn.Styleguide/STRUCTURE.md",
+		"/C/src/Csn.Styleguide/src/jade/common/layout.jade",
+		"/C/src/Csn.Styleguide/Csn.Styleguide.sublime-project",
+		"/C/src/Csn.Styleguide/src/less/base/_utility.less",
+		"/C/src/Csn.Styleguide/src/less/base/_animations.less",
+		"/C/src/Csn.Styleguide/src/less/components/_tabs.less",
+		"/C/Users/ryan.margheriti/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
+		"/C/src/Csn.Styleguide/Csn.Styleguide.sublime-workspace",
+		"/C/src/Csn.Styleguide/Csn.Styleguide.sublime-settings",
+		"/C/src/Csn.Styleguide/todo.TODO",
+		"/C/Users/ryan.margheriti/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
+		"/C/src/Csn.Styleguide/src/less/components/_tables.less",
+		"/C/src/Csn.Styleguide/README.md",
+		"/C/src/Csn.Styleguide/src/jade/common/pages/details/details-enquiry-panel.jade",
+		"/C/src/Csn.Styleguide/site/images/bs-logo.svg",
+		"/C/src/Csn.Styleguide/src/less/components/_iconfonts.less",
+		"/C/src/Csn.Styleguide/src/styleguide-template/public/rainbow-github.less",
+		"/C/src/Csn.Styleguide/dist/styleguide/public/main.js",
+		"/C/src/Csn.Carsales.Web/Content/css/main.css",
+		"/C/src/Csn.Styleguide/old/cars/base.css",
+		"/C/src/Csn.Styleguide/src/js/menu-scrape.js",
+		"/C/src/Csn.Styleguide/src/jade/common/pages/index/index-new-car.jade",
+		"/C/src/Csn.Styleguide/install.sh",
+		"/C/src/Csn.Styleguide/src/jade/bikesales/includes/footer.jade",
+		"/C/src/Csn.Styleguide/DOCS.TODO",
+		"/C/src/Csn.Styleguide/src/less/base/_typography.less",
+		"/C/src/Csn.Styleguide/src/jade/common/pages/index/index-search.jade",
+		"/C/src/Csn.Styleguide/dist/styleguide/public/rainbow-github.less",
+		"/C/Users/ryan.margheriti/Desktop/carloan timesheet",
+		"/C/src/Csn.Styleguide/v0.2.0.TODO",
+		"/C/src/Csn.Styleguide/src/less/styleguide.md",
+		"/C/src/Csn.Styleguide/src/styleguide-template/index.html",
+		"/C/src/Csn.Styleguide/src/less/skin/carsales/style-carsales.less",
+		"/C/src/Csn.Styleguide/site/css/style-carsales.css",
+		"/C/src/Csn.Styleguide/src/less/skin/bikesales/style-bikesales.less",
+		"/C/src/Csn.Styleguide/src/less/components/_dropdowns.less",
+		"/C/src/Csn.Styleguide/src/less/components/_tooltips.less",
+		"/C/src/Csn.Styleguide/src/less/base/_reset.less",
+		"/C/src/Csn.Styleguide/src/less/components/_site_nav.less",
+		"/C/src/Csn.Styleguide/site/carsales/site-nav-demo.html",
+		"/C/src/Csn.Styleguide/DELIVERABLES-2013-12-20.TODO",
+		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-jade/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/boolean_double.js",
+		"/C/src/Csn.Styleguide/node_modules/grunt-html-validation/node_modules/request/tests/test-oauth.js",
+		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/tests/test-isUrl.js",
+		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/import-subfolder1.less",
+		"/C/src/Csn.Styleguide/src/less/patterns/_dropdowns.less",
+		"/C/src/Csn.Styleguide/src/less/skin/carsales/skin-carsales.less",
+		"/C/src/Csn.Styleguide/src/less/patterns/_forms.less",
+		"/C/src/Csn.Styleguide/src/less/patterns/_iconfonts.less",
+		"/C/src/Csn.Styleguide/src/less/patterns/_buttons.less",
+		"/C/src/Csn.Styleguide/src/styleguide-template/public/kss.less",
+		"/C/src/Csn.Styleguide/src/less/skin/common/common.less",
+		"/C/src/Admin/Csn.Carsales.Admin/Views/Patterns/Index.cshtml",
+		"/C/src/Csn.Styleguide/src/less/structure/_layouts.less",
+		"/C/src/Csn.Styleguide/src/less/patterns/_pagination.less",
+		"/C/src/Csn.Styleguide/src/less/structure/_grid.less",
+		"/C/src/Csn.Styleguide/src/less/modules/_accordions.less",
+		"/C/src/Csn.Styleguide/src/less/patterns/_media.less",
+		"/C/src/Csn.Styleguide/src/less/patterns/_panels.less",
+		"/C/src/Csn.Styleguide/src/less/patterns/_carets.less",
+		"/C/src/Csn.Styleguide/src/less/patterns/_tables.less",
+		"/C/src/Csn.Styleguide/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/action_container.js",
+		"/C/src/Csn.Styleguide/node_modules/.bin/autoprefixer",
+		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-less/node_modules/less/test/less/media.less",
+		"/C/src/Csn.Styleguide/node_modules/grunt-styleguide/node_modules/stylus/node_modules/cssom/lib/MediaList.js",
+		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-less/node_modules/less/test/css/media.css",
+		"/C/src/Csn.Styleguide/node_modules/.bin/md2html",
+		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/bad-variable-declaration1.less",
+		"/C/src/Csn.Styleguide/node_modules/grunt-styleguide/test/expected/styledocco/docs/bootstrap/less/components-variables.html"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"*.scss",
+			"*.less",
+			"",
+			"*.less",
+			"",
+			"-*.css,src/less/*.less",
+			"-*.css,*.less",
+			"-*.css",
+			"-*.css,*.less",
+			"-*.css,-*.less",
+			"-*.css,*.less",
+			"-*.css,-*.less",
+			"-*.css,*.less",
+			"-*.css,-*.less,*.cshtml",
+			"-*.css,-*.less",
+			"-*.css,*.less",
+			"-*.css,-*.less",
+			"-*.css,*.less",
+			"-*.css,-*.less",
+			"-*.css,*.less",
+			"-*.css,-*.less",
+			"-*.css,*.less",
+			"-*.css,*.less,",
+			"-*.css,-*.less,*.js",
+			"-*.css,-*.less",
+			"",
+			"*.less",
+			"",
+			"*.less",
+			"-*.less",
+			"*.less",
+			"*.config",
+			"-*.cshtml",
+			"*.less",
+			"-*.less",
+			"*.less",
+			"-*.less",
+			"*.less",
+			"",
+			"*.less",
+			"-*.less",
+			"*.less",
+			"-*.css",
+			"-*.less",
+			"",
+			"-*.less",
+			"*.less",
+			"-*.css,-*.less,-*.js",
+			"-*.css,-*.less",
+			"",
+			"<open folders>,*.less,-*.css,-*.js,-*.html",
+			"<open folders>,-*.less,-*.css,-*.js,-*.html",
+			"<open folders>,*.less,-*.css,-*.js,-*.html",
+			"<open folders>,-*.less,-*.css,-*.js,-*.html",
+			"<open folders>,*.less,-*.css,-*.js,-*.html",
+			"<open folders>,-*.less,-*.css,-*.js,-*.html",
+			"-*.less,-*.css,-*.js,-*.html",
+			"-*.less,-*.css,-*.js",
+			"-*.less,-*.css",
+			"-*.less,-*.csss",
+			"-*.less",
+			"<open folders>",
+			"",
+			"*.js",
+			"*.less",
+			"",
+			"-*.less",
+			"*.less",
+			"",
+			"C:\\src\\Csn.Carsales.Web\\Content\\css,-C:\\src\\Csn.Carsales.Web\\Content\\css\\lib",
+			"",
+			"*.js",
+			"",
+			"-*.less,-*.js,-*.css",
+			"-*.less,-*.js,-*modernizr*.js,-*.css",
+			"*.less,-*.js,-*modernizr*.js,-*.css",
+			"-*.less,-*.js,-*modernizr*.js,-*.css",
+			"*.less,-*.js,-*modernizr*.js,-*.css",
+			"-*.less,-*.js,-*modernizr*.js,-*.css",
+			"*.less,-*.js,-*modernizr*.js,-*.css",
+			"-*.less,-*.js,-*modernizr*.js,-*.css",
+			"*.less,-*.js,-*modernizr*.js,-*.css",
+			"-*.less,-*.js,-*modernizr*.js,-*.css",
+			"*.less,-*.js,-*modernizr*.js,-*.css",
+			"-*.less,-*.js,-*modernizr*.js,-*.css",
+			"*.less,-*.js,-*modernizr*.js,-*.css",
+			"-*.less,-*.js,-*modernizr*.js,-*.css",
+			"*.less,-*.js,-*modernizr*.js,-*.css",
+			"-*.less,-*.js,-*modernizr*.js",
+			"-*.less,*.js,-*modernizr*.js",
+			"-*.less,*.js",
+			"-*.less,-*.js",
+			"*.less,-*.js",
+			"-*.less,-*.js",
+			"*.less,-*.js",
+			"-*.less,-*.js",
+			"*.less,-*.js",
+			"-*.less,-*.js",
+			"*.less,-*.js",
+			"-*.less,-*.js",
+			"*.less,-*.js",
+			"-*.less,-*.js",
+			"*.less,-*.js",
+			"-*.less,-*.js",
+			"*.less,-*.js",
+			"-*.less,-*.js",
+			"-*.css,*.less,-*.js,-*.map",
+			"-*.css,-*.less,-*.js,-*.map",
+			"-*.css,-*.less,-*.js",
+			"-*.css,-*.less",
+			"-*.css,*.less",
+			"-*.css,-*.less",
+			"-*.css,*.less",
+			"-*.css,-*.less",
+			"-*.css,*.less",
+			"-*.css,-*.less",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"watch",
+			"bodyBackground",
+			"index",
+			"clipTechnique",
+			"that",
+			"scrollStart",
+			"scrollCancel",
+			"scrollComplete",
+			"scrollStart",
+			"calculateDuration",
+			"duration =",
+			");",
+			",'Duration: '+duratio",
+			"mouseenter",
+			"animate",
+			"calculateduration",
+			"legac",
+			"fadeColor",
+			"try",
+			"hasMargin",
+			"el",
+			"hasmar",
+			"hasmargin",
+			"width",
+			"price",
+			"$31.95",
+			"width",
+			"place",
+			"scrollStart",
+			"scrollText",
+			"-clip-ellipsis",
+			"overflow-scroll-clip-ellipsis",
+			"removeActiveStyles",
+			"applyActiveStyles",
+			"isDone",
+			"removeActiveStyles",
+			"duration",
+			"applyActiveStyles",
+			"active",
+			".placekitten",
+			"180deg",
+			"0,0,0,1",
+			"top",
+			"255,255,255",
+			"startColor",
+			"border-box",
+			".box-shadow(",
+			"-moz-box-shadow",
+			"billboard-body",
+			"border-color",
+			"f6f6f6",
+			".navigation-primary",
+			"empha",
+			"div",
+			"input",
+			".price-panel",
+			"@arrow-width",
+			"arrowWidth",
+			"Coding Conv",
+			"styleguide",
+			"kss",
+			".css",
+			"box-sizing",
+			".box-sizing",
+			"kss-modifier-description",
+			"radio",
+			".control {",
+			"icon-font-path",
+			"csn-icons",
+			"styleguide",
+			"site",
+			"lib",
+			".logo-brand",
+			"logo-brand",
+			"../../fonts/icons/",
+			"head",
+			"<<< HEAD ====",
+			".css",
+			"style.css",
+			"../",
+			"icon-",
+			"control-",
+			"dropdown",
+			"dropdowns",
+			"fue",
+			"4",
+			"Name Of Section",
+			".panel",
+			"@media",
+			"media",
+			"4",
+			"media",
+			"primary-price",
+			".site-body",
+			"has-sidebar",
+			"is-valigned",
+			"media-body",
+			"COLOUR",
+			"keyfea",
+			".gallery-status",
+			"modal-body",
+			".is-modal",
+			"line-height",
+			"Do you want to trade in?",
+			"radio",
+			".de-emp",
+			"h1",
+			"ajax-link",
+			"icon-arrow-",
+			"accordion",
+			"body",
+			".Comments",
+			"Seller's comments",
+			"line-height",
+			"label",
+			"error",
+			".field-validation-error",
+			"@large-padding",
+			"@base-padding",
+			"red",
+			"-",
+			"+",
+			"|",
+			"height",
+			"1b1b1b",
+			".media-gallery-header",
+			".popup-media-gallery",
+			"mediagalleryinpop"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cssScrollStart",
+			"cssScrollCancel",
+			"cssScrollComplete",
+			"scrollCancel",
+			"scrollStart",
+			"scrollComplete",
+			"8px",
+			"arrow-width",
+			"media-sidebar",
+			"@large-spacing",
+			"@base-spacing",
+			"/Admin/Csn.Carsales.Admin/",
+			"/Csn.Carsales.Dev/Content/less/",
+			"// -----------------------------------------\n",
+			"// -----------------------------------------",
+			"control",
+			"row",
+			"carsales.web",
+			"@import \"../../../../",
+			"data-modal-id",
+			"/Content/css/main.css",
+			".is-active",
+			"#caret"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "css/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 417,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								356,
+								356
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Gruntfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2081,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								842,
+								842
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 95.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								401,
+								392
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 20.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "bower_components/impress.js/css/impress-demo.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								307,
+								307
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "steps/list.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 578,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								435,
+								435
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "steps/basics.html",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 191,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "training-day-css.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"listjson",
+				"steps\\list.json"
+			],
+			[
+				"impressdemo",
+				"bower_components\\impress.js\\css\\impress-demo.css"
+			],
+			[
+				"gruntfile",
+				"Gruntfile.coffee"
+			],
+			[
+				"sas",
+				"_posts\\2014-01-10-sass.markdown"
+			],
+			[
+				"post",
+				"_layouts\\post.html"
+			],
+			[
+				"posts",
+				"_posts\\2014-01-01-first.markdown"
+			],
+			[
+				"first",
+				"_posts\\2014-01-01-first.markdown"
+			],
+			[
+				"default",
+				"_layouts\\default.html"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"jquery",
+				"scripts\\lib\\jquery.js"
+			],
+			[
+				"demo",
+				"demo.html"
+			],
+			[
+				"mixins",
+				"src\\less\\base\\_mixins.less"
+			],
+			[
+				"iconfonts",
+				"src\\less\\components\\_iconfonts.less"
+			],
+			[
+				"loader",
+				"src\\less\\components\\_loader.less"
+			],
+			[
+				"medialess",
+				"src\\less\\components\\_media.less"
+			],
+			[
+				"variables",
+				"src\\less\\base\\_variables.less"
+			],
+			[
+				"panels",
+				"src\\less\\components\\_panels.less"
+			],
+			[
+				"vara",
+				"src\\less\\base\\_variables.less"
+			],
+			[
+				"buttonsless",
+				"src\\less\\components\\_buttons.less"
+			],
+			[
+				"forms",
+				"src\\less\\components\\_forms.less"
+			],
+			[
+				"grid",
+				"src\\less\\components\\_grid.less"
+			],
+			[
+				"star",
+				"src\\less\\components\\_star-rating.less"
+			],
+			[
+				"layoutsless",
+				"src\\less\\components\\_layouts.less"
+			],
+			[
+				"tabsless",
+				"src\\less\\components\\_tabs.less"
+			],
+			[
+				"release",
+				"release-notes.TODO"
+			],
+			[
+				"varialbes",
+				"src\\less\\base\\_variables.less"
+			],
+			[
+				"variable",
+				"src\\less\\base\\_variables.less"
+			],
+			[
+				"utili",
+				"src\\less\\base\\_utility.less"
+			],
+			[
+				"library",
+				"src\\less\\library.less"
+			],
+			[
+				"animate",
+				"src\\less\\base\\_animations.less"
+			],
+			[
+				"icon",
+				"src\\less\\components\\_iconfonts.less"
+			],
+			[
+				"loade",
+				"src\\less\\components\\_loader.less"
+			],
+			[
+				"badges",
+				"src\\less\\components\\_badges.less"
+			],
+			[
+				"media",
+				"src\\less\\components\\_media.less"
+			],
+			[
+				"varial",
+				"src\\less\\skin\\bikesales\\variables-bikesales.less"
+			],
+			[
+				"formsless",
+				"src\\less\\components\\_forms.less"
+			],
+			[
+				"releas",
+				"release-notes.TODO"
+			],
+			[
+				"buttons",
+				"src\\less\\components\\_buttons.less"
+			],
+			[
+				"stylecarsalesless",
+				"src\\less\\skin\\carsales\\style-carsales.less"
+			],
+			[
+				"stylecares",
+				"src\\css\\carsales\\style-carsales.css"
+			],
+			[
+				"sitenavless",
+				"src\\less\\components\\_site_nav.less"
+			],
+			[
+				"todo",
+				"todo.TODO"
+			],
+			[
+				"kssless",
+				"src\\styleguide-template\\public\\kss.less"
+			],
+			[
+				"gridless",
+				"src\\less\\structure\\_grid.less"
+			],
+			[
+				"accordion",
+				"src\\less\\modules\\_accordions.less"
+			],
+			[
+				"_medialess",
+				"src\\less\\patterns\\_media.less"
+			],
+			[
+				"caretsless",
+				"src\\less\\patterns\\_carets.less"
+			],
+			[
+				"tablesless",
+				"src\\less\\patterns\\_tables.less"
+			],
+			[
+				"_variablesless",
+				"src\\less\\base\\_variables.less"
+			],
+			[
+				"_varialbes",
+				"src\\less\\base\\_variables.less"
+			],
+			[
+				"forsmless",
+				"src\\less\\patterns\\_forms.less"
+			],
+			[
+				"pagiantionl",
+				"src\\less\\patterns\\_pagination.less"
+			],
+			[
+				"stylebikesless",
+				"src\\less\\skin\\bikesales\\style-bikesales.less"
+			],
+			[
+				"varaible",
+				"src\\less\\skin\\carsales\\variables-carsales.less"
+			],
+			[
+				"scaff",
+				"src\\less\\base\\_scaffolding.less"
+			],
+			[
+				"gruntf",
+				"Gruntfile.js"
+			],
+			[
+				"panel",
+				"src\\less\\patterns\\_panels.less"
+			],
+			[
+				"_variables",
+				"src\\less\\base\\_variables.less"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"loaderless",
+				"src\\less\\patterns\\_loader.less"
+			],
+			[
+				"libraryless",
+				"src\\less\\library.less"
+			],
+			[
+				"layouts",
+				"src\\less\\structure\\_layouts.less"
+			],
+			[
+				"iconfont",
+				"src\\less\\patterns\\_iconfonts.less"
+			],
+			[
+				"tabs",
+				"src\\less\\patterns\\_tabs.less"
+			],
+			[
+				"caret",
+				"src\\less\\patterns\\_carets.less"
+			],
+			[
+				"iconf",
+				"src\\less\\patterns\\_iconfonts.less"
+			],
+			[
+				"panelsless",
+				"src\\less\\patterns\\_panels.less"
+			],
+			[
+				"layoutless",
+				"src\\less\\structure\\_layouts.less"
+			],
+			[
+				"typo",
+				"src\\less\\base\\_typography.less"
+			],
+			[
+				"gallery",
+				"Content\\css\\modules\\_gallery.less"
+			],
+			[
+				"views/gallery",
+				"Views\\Gallery\\MediaGalleryInPage.cshtml"
+			],
+			[
+				"enquiryform",
+				"Areas\\Bnc\\Views\\ShowroomEnquiry\\EnquiryForm.cshtml"
+			],
+			[
+				"spritesless",
+				"Content\\css\\themes\\_sprites.less"
+			],
+			[
+				"headerless",
+				"Content\\css\\themes\\_header.less"
+			],
+			[
+				"maincss",
+				"Content\\css\\main.css"
+			],
+			[
+				"mainless",
+				"Content\\css\\main.less"
+			],
+			[
+				"bncdetailsmapper",
+				"Areas\\Bnc\\Mappers\\BncDetailsMapper.cs"
+			],
+			[
+				"priceless",
+				"Content\\css\\themes\\_price.less"
+			],
+			[
+				"keyfeatures",
+				"Views\\Shared\\Details\\VehicleKeyFeatures.cshtml"
+			],
+			[
+				"layout",
+				"Views\\Shared\\_TwoColumnRightLayout.cshtml"
+			],
+			[
+				"enquiryless",
+				"Content\\css\\modules\\_enquiry-form.less"
+			],
+			[
+				"enquiry",
+				"Areas\\Showroom\\Views\\ShowroomEnquiry\\EnquiryForm.cshtml"
+			],
+			[
+				"standard",
+				"Views\\Spec\\StandardFeatures.cshtml"
+			],
+			[
+				"accordionless",
+				"Content\\css\\modules\\_accordions.less"
+			],
+			[
+				"typoless",
+				"Content\\css\\themes\\_typography.less"
+			],
+			[
+				"titleprice",
+				"Views\\Shared\\Price\\TitlePrice.cshtml"
+			],
+			[
+				"bncdetails",
+				"Areas\\Bnc\\Views\\Details\\Details.cshtml"
+			],
+			[
+				"enquiryjs",
+				"Content\\scripts\\Modules\\csEnquiryForm.js"
+			],
+			[
+				"twocolumn",
+				"Views\\Shared\\_TwoColumnRightLayout.cshtml"
+			],
+			[
+				"animations",
+				"Content\\css\\areas\\campaigns\\easy\\base\\animations.less"
+			],
+			[
+				"enquiryformcshtml",
+				"Areas\\Bnc\\Views\\ShowroomEnquiry\\EnquiryForm.cshtml"
+			],
+			[
+				"tooltips",
+				"Content\\css\\patterns\\_tooltips.less"
+			],
+			[
+				"utlity",
+				"Content\\css\\base\\_utility.less"
+			],
+			[
+				"galleryjs",
+				"Content\\scripts\\Modules\\mediaGallery.js"
+			],
+			[
+				"modalcshtml",
+				"Views\\Shared\\_ModalLayout.cshtml"
+			],
+			[
+				"galleryinpop",
+				"Views\\Gallery\\MediaGalleryInPopup.cshtml"
+			],
+			[
+				"webconfig",
+				"Web.config"
+			],
+			[
+				"reset",
+				"Content\\css\\base\\_reset.less"
+			],
+			[
+				"advert",
+				"Content\\css\\themes\\_adverts.less"
+			],
+			[
+				"sections",
+				"Content\\css\\themes\\_sections.less"
+			],
+			[
+				"accordionjs",
+				"Content\\scripts\\Modules\\accordion.js"
+			],
+			[
+				"paginationless",
+				"Content\\css\\patterns\\_pagination.less"
+			],
+			[
+				"layoutcshtml",
+				"Views\\Shared\\_TwoColumnRightLayout.cshtml"
+			],
+			[
+				"mediagallery",
+				"Views\\Gallery\\MediaGalleryInPopup.cshtml"
+			],
+			[
+				"bncdetailscshtml",
+				"Areas\\Bnc\\Views\\Details\\Details.cshtml"
+			],
+			[
+				"itemslider",
+				"Content\\scripts\\lib\\itemSlider.js"
+			],
+			[
+				"formless",
+				"Content\\css\\patterns\\_forms.less"
+			],
+			[
+				"quicklinks",
+				"Areas\\Showroom\\Views\\Details\\QuickLinks.cshtml"
+			],
+			[
+				"header",
+				"Content\\css\\themes\\_header.less"
+			],
+			[
+				"iconfon",
+				"Content\\css\\patterns\\_iconfonts.less"
+			],
+			[
+				"bncoverview",
+				"Areas\\Bnc\\Views\\Details\\Overview.cshtml"
+			],
+			[
+				"lists",
+				"Content\\css\\patterns\\_lists.less"
+			],
+			[
+				"twocol",
+				"Views\\Shared\\_TwoColumnRightLayout.cshtml"
+			],
+			[
+				"detailsless",
+				"Content\\css\\themes\\bnc\\_details.less"
+			],
+			[
+				"_twocolumnrightlayout",
+				"Views\\Shared\\_TwoColumnRightLayout.cshtml"
+			],
+			[
+				"colorbox",
+				"Content\\scripts\\jquery.colorbox.js"
+			],
+			[
+				"modal",
+				"Content\\css\\modules\\_modal.less"
+			],
+			[
+				"cards",
+				"Content\\css\\patterns\\_cards.less"
+			],
+			[
+				"wells",
+				"Content\\css\\patterns\\_wells.less"
+			],
+			[
+				"tooltip",
+				"Content\\css\\patterns\\_tooltips.less"
+			],
+			[
+				"holdencss",
+				"Content\\css\\themes\\new-cars\\holden.css"
+			],
+			[
+				"bmwcss",
+				"Content\\css\\themes\\new-cars\\bmw.css"
+			],
+			[
+				"bmw",
+				"Content\\css\\themes\\new-cars\\bmw.css"
+			],
+			[
+				"holden",
+				"Content\\css\\themes\\new-cars\\holden.css"
+			],
+			[
+				"gallerycshtml",
+				"Views\\Gallery\\MediaGalleryPopup.cshtml"
+			],
+			[
+				"footerindex",
+				"Views\\Footer\\Index.cshtml"
+			],
+			[
+				"adverts",
+				"Content\\css\\themes\\_adverts.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"web",
+				"C:\\src\\csn.cars\\Csn.Carsales.Web\\Csn.Carsales.Web.sublime-project"
+			],
+			[
+				"mobi",
+				"C:\\src\\csn.cars\\Csn.Carsales.Mobi\\Csn.Carsales.Mobi.sublime-project"
+			],
+			[
+				"",
+				"C:\\src\\UI.Library\\UI.Library.sublime-project"
+			],
+			[
+				"merlin",
+				"C:\\Users\\ryan.margheriti\\Projects\\merlino-homes\\merlino-homes.sublime-project"
+			],
+			[
+				"we",
+				"C:\\src\\Csn.Carsales.Web\\Csn.Carsales.Web.sublime-project"
+			],
+			[
+				"style",
+				"C:\\src\\Csn.Styleguide\\Csn.Styleguide.sublime-project"
+			],
+			[
+				"carloan",
+				"C:\\tempcl\\carloan.com.au\\carloan.web\\carloan.sublime-project"
+			],
+			[
+				"reform",
+				"C:\\Users\\ryan.margheriti\\Projects\\Re-form\\reform.sublime-project"
+			],
+			[
+				"carsales",
+				"C:\\src\\Csn.Carsales.Mobi\\Csn.Carsales.Mobi.sublime-project"
+			],
+			[
+				"carloa",
+				"C:\\tempcl\\carloan.com.au\\carloan.com.au\\carloan.sublime-project"
+			],
+			[
+				"admin",
+				"C:\\src\\Csn.Carsales.Web\\Content\\css\\base\\Csn.Carsales.Admin.sublime-project"
+			],
+			[
+				"merl",
+				"C:\\Users\\ryan.margheriti\\Projects\\merlino-homes\\merlino-homes.sublime-project"
+			],
+			[
+				"merlino",
+				"C:\\Users\\ryan.margheriti\\Projects\\merlino-homes\\merlino-homes.sublime-project"
+			],
+			[
+				"mob",
+				"C:\\src\\Csn.Carsales.Mobi\\Csn.Carsales.Mobi.sublime-project"
+			],
+			[
+				"mo",
+				"C:\\Users\\ryan.margheriti\\Projects\\merlino-homes\\merlino-homes.sublime-project"
+			],
+			[
+				"carpoint",
+				"C:\\src\\Csn.Carpoint.Web\\Csn.Carpoint.Web.sublime-project"
+			],
+			[
+				"car",
+				"C:\\src\\Csn.Carpoint.Web\\Csn.Carpoint.Web.sublime-project"
+			],
+			[
+				"mobiu",
+				"C:\\src\\Csn.Carsales.Mobi\\Csn.Carsales.Mobi.sublime-project"
+			],
+			[
+				"carpo",
+				"C:\\src\\Csn.Carpoint.Web\\Csn.Carpoint.Web.sublime-project"
+			],
+			[
+				"common",
+				"C:\\src\\Csn.Common.Web\\Csn.Common.Web.sublime-project"
+			],
+			[
+				"com",
+				"C:\\src\\Csn.Common.Web\\Csn.Common.Web.sublime-project"
+			],
+			[
+				"centu",
+				"C:\\Users\\ryan.margheriti\\Projects\\centurion\\centurion.sublime-project"
+			],
+			[
+				"centur",
+				"C:\\Users\\ryan.margheriti\\Projects\\centurion\\centurion.sublime-project"
+			],
+			[
+				"comm",
+				"C:\\src\\Csn.Common.Web\\Csn.Common.Web.sublime-project"
+			],
+			[
+				"cent",
+				"C:\\Users\\ryan.margheriti\\Projects\\centurion\\centurion.sublime-project"
+			],
+			[
+				"cente",
+				"C:\\Users\\ryan.margheriti\\Projects\\centurion\\centurion.sublime-project"
+			],
+			[
+				"cen",
+				"C:\\Users\\ryan.margheriti\\Projects\\centurion\\centurion.sublime-project"
+			],
+			[
+				"code",
+				"C:\\Users\\ryan.margheriti\\Projects\\code-guide\\code-guide.sublime-project"
+			],
+			[
+				"centurion",
+				"C:\\Users\\ryan.margheriti\\Projects\\centurion\\centurion.sublime-project"
+			],
+			[
+				"desk",
+				"C:\\src\\Csn.Carsales.Web\\desktop-site.sublime-project"
+			],
+			[
+				"MO",
+				"C:\\src\\Csn.Carsales.Mobi\\mobi-site.sublime-project"
+			],
+			[
+				"deks",
+				"C:\\src\\carsales\\mvc\\Csn.Carsales.Web\\desktop-site.sublime-project"
+			],
+			[
+				"mark",
+				"C:\\Users\\ryan.margheriti\\Documents\\GitHub\\marketing-page\\marketing-page.sublime-project"
+			],
+			[
+				"market",
+				"C:\\Users\\ryan.margheriti\\Documents\\GitHub\\marketing-page\\marketing-page.sublime-project"
+			],
+			[
+				"moi",
+				"C:\\src\\carsales\\mvc\\Csn.Carsales.Mobi\\mobi-site.sublime-project"
+			]
+		],
+		"width": 989.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 192.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,211 @@
+/**
+ * Every step element has one of three classes: `future`, `present` and `past`.
+ * Only one current step has the `present` class.
+ * When a step is shown (selected) its element gets the class of "active" and
+ * the body element gets the class `impress-on-ID` where ID is the step's id.
+ */
+
+// Variables
+  $primary-color: #a8bbc6;
+
+  $intro-bg: #36536c;
+  $basics-bg: #36536c;
+  $tools-bg: #32978e;
+  $twotothree-bg: #7ba83a;
+  $overview-bg: #483747;
+
+/* http://meyerweb.com/eric/tools/css/reset/
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+body {
+    line-height: 1;
+}
+ol, ul {
+    list-style: none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+body {
+    transition: background-color 1s ease-in;
+    color: #fff;
+    min-height: 740px;
+
+    background: rgb(215, 215, 215);
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 500, from(rgb(240, 240, 240)), to(rgb(190, 190, 190)));
+    background: -webkit-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+    background:    -moz-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+    background:      -o-radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+    background:         radial-gradient(rgb(240, 240, 240), rgb(190, 190, 190));
+
+    -webkit-font-smoothing: antialiased;
+}
+
+b, strong { font-weight: bold }
+i, em { font-style: italic}
+
+a {
+    color: inherit;
+    text-decoration: none;
+    padding: 0 0.1em;
+    background: rgba(255,255,255,0.5);
+    text-shadow: -1px -1px 2px rgba(100,100,100,0.9);
+    border-radius: 0.2em;
+
+    -webkit-transition: 0.5s;
+    -moz-transition:    0.5s;
+    -ms-transition:     0.5s;
+    -o-transition:      0.5s;
+    transition:         0.5s;
+}
+
+a:hover {
+    background: rgba(255,255,255,1);
+    text-shadow: -1px -1px 2px rgba(100,100,100,0.5);
+}
+
+/* enable clicking on elements 'hiding' behind body in 3D */
+body     { pointer-events: none; }
+#impress { pointer-events: auto; }
+
+ body {
+  background: $primary-color;
+  font-family: 'Josefin Slab', sans-serif;
+ }
+
+// Typography
+h1 {
+  font-family: 'Josefin Sans', sans-serif;
+  line-height: 1.2;
+}
+h2 {
+  font-family: 'Josefin Sans', serif;
+}
+
+
+
+
+.notes {
+    display:none;
+}
+
+
+
+// Common step styles
+  .step {
+      width: 900px;
+      padding: 40px;
+
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing:    border-box;
+      -ms-box-sizing:     border-box;
+      -o-box-sizing:      border-box;
+      box-sizing:         border-box;
+
+      font-size: 48px;
+      line-height: 1.5;
+  }
+
+  .step {
+      -webkit-transition: opacity 1s;
+      -moz-transition:    opacity 1s;
+      -ms-transition:     opacity 1s;
+      -o-transition:      opacity 1s;
+      transition:         opacity 1s;
+  }
+
+  /* fade out inactive slides */
+  .step:not(.active) {
+      opacity: 0.3;
+  }
+
+  .step h2 {
+      font-size: 78px;
+      font-weight: bold;
+  }
+
+// Specific Step Styles
+  #overview {
+      z-index: -1;
+      padding: 0;
+  }
+
+  /* on overview step everything is visible */
+
+  .impress-on-overview .step {
+      opacity: 1;
+      cursor: pointer;
+  }
+
+  // Background Colours
+  .impress-on-intro {
+    background-color: $intro-bg;
+  }
+
+  .impress-on-basics,
+  .impress-on-types-of-selectors,
+  .impress-on-specificity,
+  .impress-on-anatomy-of-a-rule,
+  .impress-on-box-model,
+  .impress-on-display-modes,
+  .impress-on-float {
+    background-color: $basics-bg;
+  }
+
+  .impress-on-tools,
+  .impress-on-precompilers,
+  .impress-on-caniusecom,
+  .impress-on-etc {
+    background-color: $tools-bg;
+  }
+
+  .impress-on-twotothree,
+  .impress-on-backwards-compatibility,
+  .impress-on-transitions-transforms-and-animations-oh-my,
+  .impress-on-building-a-page-sans-background-images {
+    background-color: $twotothree-bg;
+  }
+
+  .impress-on-overview {
+    background-color: $overview-bg;
+  }
