@@ -1,0 +1,240 @@
+[
+    {
+        "uri": "start.html",
+        "id": "intro",
+        "class": "step title",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 7,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    },
+    {
+        "uri": "basics.html",
+        "id": "basics",
+        "class": "step",
+        "data": {
+            "x": -4000,
+            "y": -300,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -90
+        }
+    },
+    {
+        "uri": "types-of-selectors.html",
+        "id": "types-of-selectors",
+        "class": "step",
+        "data": {
+            "x": -4000,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -270
+        }
+    },
+    {
+        "uri": "specificity.html",
+        "id": "specificity",
+        "class": "step",
+        "data": {
+            "x": -4400,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -270
+        }
+    },
+    {
+        "uri": "anatomy-of-a-rule.html",
+        "id": "anatomy-of-a-rule",
+        "class": "step",
+        "data": {
+            "x": -4800,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -270
+        }
+    },
+    {
+        "uri": "box-model.html",
+        "id": "box-model",
+        "class": "step",
+        "data": {
+            "x": -5200,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -270
+        }
+    },
+    {
+        "uri": "display-modes.html",
+        "id": "display-modes",
+        "class": "step",
+        "data": {
+            "x": -5600,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -270
+        }
+    },
+    {
+        "uri": "float.html",
+        "id": "float",
+        "class": "step",
+        "data": {
+            "x": -6000,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -270
+        }
+    },
+    {
+        "uri": "tools.html",
+        "id": "tools",
+        "class": "step",
+        "data": {
+            "x": 3200,
+            "y": 1000,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -90
+        }
+    },
+    {
+        "uri": "precompilers.html",
+        "id": "precompilers",
+        "class": "step",
+        "data": {
+            "x": 3000,
+            "y": -1000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "caniusecom.html",
+        "id": "caniusecom",
+        "class": "step",
+        "data": {
+            "x": 3400,
+            "y": -1000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "etc.html",
+        "id": "etc",
+        "class": "step",
+        "data": {
+            "x": 3800,
+            "y": -1000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "2to3.html",
+        "id": "twotothree",
+        "class": "step",
+        "data": {
+            "x": -1500,
+            "y": 2200,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 180
+        }
+    },
+    {
+        "uri": "backwards-compatbility.html",
+        "id": "backwards-compatibility",
+        "class": "step",
+        "data": {
+            "x": 600,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "transitions-transforms-and-animations-oh-my.html",
+        "id": "transitions-transforms-and-animations-oh-my",
+        "class": "step",
+        "data": {
+            "x": 1000,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "building-a-page-sans-background-images.html",
+        "id": "building-a-page-sans-background-images",
+        "class": "step",
+        "data": {
+            "x": 1400,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "overview.html",
+        "id": "overview",
+        "class": "step",
+        "data": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "scale": 10,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 0
+        }
+    }
+]
