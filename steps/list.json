@@ -112,6 +112,20 @@
         }
     },
     {
+        "uri": "goodbad.html",
+        "id": "goodbad",
+        "class": "step",
+        "data": {
+            "x": -8200,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -270
+        }
+    },
+    {
         "uri": "tools.html",
         "id": "tools",
         "class": "step",
