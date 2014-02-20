@@ -214,7 +214,7 @@
         "id": "building-a-page-sans-background-images",
         "class": "step",
         "data": {
-            "x": 1800,
+            "x": 1600,
             "y": 2000,
             "z": 0,
             "scale": 1,
@@ -228,13 +228,55 @@
         "id": "oocss",
         "class": "step",
         "data": {
-            "x": 1800,
-            "y": 2000,
+            "x": -5100,
+            "y": -500,
+            "z": 0,
+            "scale": 4,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -180
+        }
+    },
+    {
+        "uri": "oocss-how.html",
+        "id": "oocss-how",
+        "class": "step",
+        "data": {
+            "x": -3900,
+            "y": -1200,
             "z": 0,
             "scale": 1,
             "rotate-x": 0,
             "rotate-y": 0,
-            "rotate-z": 90
+            "rotate-z": -180
+        }
+    },
+    {
+        "uri": "oocss-example.html",
+        "id": "oocss-example",
+        "class": "step",
+        "data": {
+            "x": -4700,
+            "y": -1200,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -180
+        }
+    },
+    {
+        "uri": "introducing.html",
+        "id": "introducing",
+        "class": "step",
+        "data": {
+            "x": -5800,
+            "y": -1200,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": -180
         }
     },
     {
@@ -242,7 +284,7 @@
         "id": "overview",
         "class": "step",
         "data": {
-            "x": 0,
+            "x": -900,
             "y": 0,
             "z": 0,
             "scale": 10,

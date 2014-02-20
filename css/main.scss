@@ -11,7 +11,8 @@
   $intro-bg: #36536c;
   $basics-bg: #36536c;
   $tools-bg: #32978e;
-  $twotothree-bg: #7ba83a;
+  $twotothree-bg: #e48831;
+  $oocss-bg: #7ba83a;
   $overview-bg: #483747;
 
 /* http://meyerweb.com/eric/tools/css/reset/
@@ -265,6 +266,13 @@ font-weight: normal;
   .impress-on-transitions-transforms-and-animations-oh-my,
   .impress-on-building-a-page-sans-background-images {
     background-color: $twotothree-bg;
+  }
+
+  .impress-on-oocss,
+  .impress-on-oocss-how,
+  .impress-on-oocss-example,
+  .impress-on-introducing {
+    background-color: $oocss-bg;
   }
 
   .impress-on-overview {
