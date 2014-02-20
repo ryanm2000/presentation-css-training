@@ -1,11 +1,26 @@
 <h2>Specificity</h2>
+<q>Id > class > element</q>
 
-<q>You can change the position,
-rotation and the other parameters
-in the <b>list.json</b> file.</q>
+<pre>
+&lt;a href="#" class="home-link" id="goHome"&gt;Home&lt;/a&gt;
+</pre>
+
+<pre>
+#goHome                       { background: blue;  }
+a                             { background: green; }
+.site-body .header .home-link { background: red;   }
+.header .nav .home-link       { background: pink;  }
+</pre>
+<p>Further reading: CSS Specificity for <a href="http://iamacamera.org/default.aspx?id=95" target="_blank">Poker players</a> and <a href="http://www.stuffandnonsense.co.uk/archives/css_specificity_wars.html" target="_blank">Star Wars fans</a></p>
 
 
-<div class="notes">Press the P
-key to access the notes console.
+<div class="notes">
+    <ul>
+        <li>One of the hardest concepts to grasp</li>
+        <li>If 2 selectors apply to the same element, higher specificiy wins</li>
+        <li>Determines which CSS rule is applied by the browser</li>
+        <li></li>
+        <li></li>
+    </ul>
 </div>
 

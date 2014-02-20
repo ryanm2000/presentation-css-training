@@ -11,6 +11,9 @@
     <link href='http://fonts.googleapis.com/css?family=Josefin+Slab:400' rel='stylesheet' type='text/css'>
     <link href='http://fonts.googleapis.com/css?family=Josefin+Sans:400' rel='stylesheet' type='text/css'>
 
+    <!-- Syntax Highlighting -->
+    <link rel="stylesheet" href="http://yandex.st/highlightjs/8.0/styles/zenburn.min.css">
+
     <!-- <link href="bower_components/impress.js/css/impress-demo.css" rel="stylesheet" /> -->
     <link href="css/impressConsole.css" rel="stylesheet" />
     <link href="css/main.css" rel="stylesheet" />
@@ -46,6 +49,13 @@
     impressConsole().init();
   });
   </script>
+
+<script src="http://yandex.st/highlightjs/8.0/highlight.min.js"></script>
+<script>
+$(document).ready(function() {
+  $('pre').each(function(i, e) {hljs.highlightBlock(e)});
+});
+</script>
 
 
 </body>

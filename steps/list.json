@@ -46,7 +46,7 @@
         "id": "specificity",
         "class": "step",
         "data": {
-            "x": -4400,
+            "x": -4600,
             "y": 2000,
             "z": 0,
             "scale": 1,
@@ -60,7 +60,7 @@
         "id": "anatomy-of-a-rule",
         "class": "step",
         "data": {
-            "x": -4800,
+            "x": -5100,
             "y": 2000,
             "z": 0,
             "scale": 1,
@@ -74,7 +74,7 @@
         "id": "box-model",
         "class": "step",
         "data": {
-            "x": -5200,
+            "x": -5500,
             "y": 2000,
             "z": 0,
             "scale": 1,
@@ -88,7 +88,7 @@
         "id": "display-modes",
         "class": "step",
         "data": {
-            "x": -5600,
+            "x": -5900,
             "y": 2000,
             "z": 0,
             "scale": 1,
@@ -102,7 +102,7 @@
         "id": "float",
         "class": "step",
         "data": {
-            "x": -6000,
+            "x": -6300,
             "y": 2000,
             "z": 0,
             "scale": 1,
