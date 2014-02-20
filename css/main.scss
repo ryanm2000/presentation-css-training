@@ -131,6 +131,24 @@ font-weight: normal;
 
 }
 
+.example {
+  font-family: arial;
+  font-size: .5em;
+  padding: 3px;
+
+  .block {
+    background: #18af90;
+    border: solid 4px #fff;
+    padding:5px;
+    margin:5px;
+  }
+  .inline {
+    background: #d94d36;
+    border: solid 4px #fff;
+    padding:5px;
+    margin:5px;
+  }
+}
 
 .notes {
     display:none;
