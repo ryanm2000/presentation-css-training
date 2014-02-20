@@ -102,7 +102,7 @@
         "id": "float",
         "class": "step",
         "data": {
-            "x": -7200,
+            "x": -7400,
             "y": 2000,
             "z": 0,
             "scale": 1,
@@ -172,7 +172,7 @@
         "id": "twotothree",
         "class": "step",
         "data": {
-            "x": -1500,
+            "x": -1700,
             "y": 2200,
             "z": 0,
             "scale": 4,
@@ -182,11 +182,11 @@
         }
     },
     {
-        "uri": "backwards-compatbility.html",
-        "id": "backwards-compatibility",
+        "uri": "whats-new.html",
+        "id": "whats-new",
         "class": "step",
         "data": {
-            "x": 600,
+            "x": 400,
             "y": 2000,
             "z": 0,
             "scale": 1,
@@ -196,8 +196,8 @@
         }
     },
     {
-        "uri": "transitions-transforms-and-animations-oh-my.html",
-        "id": "transitions-transforms-and-animations-oh-my",
+        "uri": "backwards-compatbility.html",
+        "id": "backwards-compatibility",
         "class": "step",
         "data": {
             "x": 1000,
@@ -214,7 +214,21 @@
         "id": "building-a-page-sans-background-images",
         "class": "step",
         "data": {
-            "x": 1400,
+            "x": 1800,
+            "y": 2000,
+            "z": 0,
+            "scale": 1,
+            "rotate-x": 0,
+            "rotate-y": 0,
+            "rotate-z": 90
+        }
+    },
+    {
+        "uri": "oocss.html",
+        "id": "oocss",
+        "class": "step",
+        "data": {
+            "x": 1800,
             "y": 2000,
             "z": 0,
             "scale": 1,
