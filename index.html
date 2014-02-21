@@ -42,7 +42,7 @@
   <script>
   // First, get sorted slide list
 
-  $.getJSON('steps/list.json', function(data) {
+  $.getJSON('/training-day-css/steps/list.json', function(data) {
     // Append ordered slides
     appendSlides(data);
     impress().init();
