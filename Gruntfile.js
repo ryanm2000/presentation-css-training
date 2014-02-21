@@ -28,6 +28,25 @@ module.exports = function (grunt) {
                 tasks: ['sass'],
             }
         },
+        copy: {
+            deploy: {
+                files: [
+                // includes files within path
+                  {expand: true, src: ['css/*'], dest: 'dist/', filter: 'isFile'},
+                  {expand: true, src: ['index.html'], dest: 'dist/', filter: 'isFile'},
+                  {expand: true, src: ['js/*'], dest: 'dist/', filter: 'isFile'},
+                  {expand: true, src: ['steps/*'], dest: 'dist/', filter: 'isFile'},
+                  {expand: true, src: ['bower_components/**'], dest: 'dist/', filter: 'isFile'}
+                ]
+            }
+        },
+        'gh-pages': {
+          options: {
+            base: 'dist'
+          },
+          src: ['**']
+        },
+
         connect: {
             options: {
                 port: 9000,
@@ -63,5 +82,6 @@ module.exports = function (grunt) {
     });
 
     grunt.registerTask('server', ['connect:livereload', 'open', 'watch']);
+    grunt.registerTask('deploy', ['copy:deploy', 'gh-pages']);
     grunt.registerTask('default', 'server');
 };

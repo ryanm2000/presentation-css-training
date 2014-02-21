@@ -76,59 +76,35 @@
 	"buffers":
 	[
 		{
-			"file": "css/main.scss",
+			"file": "examples/precompiler01.css",
 			"settings":
 			{
-				"buffer_size": 417,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "css/main.css",
-			"settings":
-			{
-				"buffer_size": 86,
+				"buffer_size": 2813,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "Gruntfile.js",
+			"file": "examples/oocss01.less",
 			"settings":
 			{
-				"buffer_size": 2081,
-				"line_ending": "Unix"
+				"buffer_size": 406,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "index.html",
+			"file": "examples/precompiler02.less",
 			"settings":
 			{
-				"buffer_size": 1654,
-				"line_ending": "Unix"
+				"buffer_size": 1246,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "bower_components/impress.js/css/impress-demo.css",
+			"file": "examples/oocss02.less",
 			"settings":
 			{
-				"buffer_size": 12745,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "steps/list.json",
-			"settings":
-			{
-				"buffer_size": 578,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "steps/basics.html",
-			"settings":
-			{
-				"buffer_size": 191,
-				"line_ending": "Unix"
+				"buffer_size": 343,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -300,6 +276,70 @@
 	},
 	"file_history":
 	[
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/handlebars/bower.json",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/whats-new.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/examples/oocss02.less",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/goodbad.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/oocss-example.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/list.json",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/css/main.scss",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/introducing.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/oocss-how.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/examples/oocss01.less",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/tools.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/precompilers.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/index.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/building-a-page-sans-background-images.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/2to3.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/specificity.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/box-model.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/display-modes.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/examples/precompiler01.css",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/etc.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/display-models.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/dist/steps/specificity.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/.grunt/grunt-gh-pages/gh-pages/src/steps/specificity.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/backwards-compatbility.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/oocss.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/types-of-selectors.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/examples/precompiler02.less",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/src/exports.js",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/basics.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/test/hovertest.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/dist/bower_components/jquery/test/data/offset/table.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/test/data/with_fries_over_jsonp.php",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/test/unit/wrap.js",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/test/unit/selector.js",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/src/serialize.js",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/float.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/start.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/transitions-transforms-and-animations-oh-my.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/src/intro.js",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/anatomy-of-a-rule.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/test/data/errorWithText.php",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/config.json",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/.grunt/grunt-gh-pages/gh-pages/src/css/main.css",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/dist/css/main.css",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/css/main.css",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/test/data/event/promiseReady.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/package.json",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/impress.js/css/impress-demo.css",
+		"/C/Users/ryan.margheriti/Downloads/animate (1).css",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/speed/css.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/.grunt/grunt-gh-pages/gh-pages/src/bower_components/jquery/test/data/cleanScript.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/test/data/selector/sizzle_cache.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower.json",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/AUTHORS.txt",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/steps/overview.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/Gruntfile.js",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/.grunt/grunt-gh-pages/gh-pages/src/steps/steps/building-a-page-sans-background-images.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/.grunt/grunt-gh-pages/gh-pages/src/steps/steps/transitions-transforms-and-animations-oh-my.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/.grunt/grunt-gh-pages/gh-pages/src/css/css/impressConsole.css",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/.grunt/grunt-gh-pages/gh-pages/src/steps/steps/anatomy-of-a-rule.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/.grunt/grunt-gh-pages/gh-pages/src/steps/steps/precompilers.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/.grunt/grunt-gh-pages/gh-pages/src/steps/steps/2to3.html",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/.gitignore",
+		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/src/deferred.js",
 		"/C/Users/ryan.margheriti/Projects/training-day-css/css/impressConsole.css",
 		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/jquery/test/data/if_modified_since.php",
 		"/C/Users/ryan.margheriti/Projects/training-day-css/Gruntfile.coffee",
@@ -307,7 +347,6 @@
 		"/C/Users/ryan.margheriti/Projects/training-day-css/slides/basics.html",
 		"/C/Users/ryan.margheriti/Projects/training-day-css/css/source/theme.scss",
 		"/C/Users/ryan.margheriti/Projects/training-day-css/bower_components/reveal.js/Gruntfile.js",
-		"/C/Users/ryan.margheriti/Projects/training-day-css/package.json",
 		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_posts/2014-01-10-sass.markdown",
 		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_posts/2013-06-01-grunt.markdown",
 		"/C/Users/ryan.margheriti/Projects/ryanmargheriti.github.io/_includes/footer.html",
@@ -364,80 +403,22 @@
 		"/C/src/Csn.Styleguide/Csn.Styleguide.sublime-project",
 		"/C/src/Csn.Styleguide/src/less/base/_utility.less",
 		"/C/src/Csn.Styleguide/src/less/base/_animations.less",
-		"/C/src/Csn.Styleguide/src/less/components/_tabs.less",
-		"/C/Users/ryan.margheriti/AppData/Roaming/Sublime Text 3/Packages/PlainTasks/PlainTasks (Windows).sublime-settings",
-		"/C/src/Csn.Styleguide/Csn.Styleguide.sublime-workspace",
-		"/C/src/Csn.Styleguide/Csn.Styleguide.sublime-settings",
-		"/C/src/Csn.Styleguide/todo.TODO",
-		"/C/Users/ryan.margheriti/AppData/Roaming/Sublime Text 3/Packages/User/PlainTasks.sublime-settings",
-		"/C/src/Csn.Styleguide/src/less/components/_tables.less",
-		"/C/src/Csn.Styleguide/README.md",
-		"/C/src/Csn.Styleguide/src/jade/common/pages/details/details-enquiry-panel.jade",
-		"/C/src/Csn.Styleguide/site/images/bs-logo.svg",
-		"/C/src/Csn.Styleguide/src/less/components/_iconfonts.less",
-		"/C/src/Csn.Styleguide/src/styleguide-template/public/rainbow-github.less",
-		"/C/src/Csn.Styleguide/dist/styleguide/public/main.js",
-		"/C/src/Csn.Carsales.Web/Content/css/main.css",
-		"/C/src/Csn.Styleguide/old/cars/base.css",
-		"/C/src/Csn.Styleguide/src/js/menu-scrape.js",
-		"/C/src/Csn.Styleguide/src/jade/common/pages/index/index-new-car.jade",
-		"/C/src/Csn.Styleguide/install.sh",
-		"/C/src/Csn.Styleguide/src/jade/bikesales/includes/footer.jade",
-		"/C/src/Csn.Styleguide/DOCS.TODO",
-		"/C/src/Csn.Styleguide/src/less/base/_typography.less",
-		"/C/src/Csn.Styleguide/src/jade/common/pages/index/index-search.jade",
-		"/C/src/Csn.Styleguide/dist/styleguide/public/rainbow-github.less",
-		"/C/Users/ryan.margheriti/Desktop/carloan timesheet",
-		"/C/src/Csn.Styleguide/v0.2.0.TODO",
-		"/C/src/Csn.Styleguide/src/less/styleguide.md",
-		"/C/src/Csn.Styleguide/src/styleguide-template/index.html",
-		"/C/src/Csn.Styleguide/src/less/skin/carsales/style-carsales.less",
-		"/C/src/Csn.Styleguide/site/css/style-carsales.css",
-		"/C/src/Csn.Styleguide/src/less/skin/bikesales/style-bikesales.less",
-		"/C/src/Csn.Styleguide/src/less/components/_dropdowns.less",
-		"/C/src/Csn.Styleguide/src/less/components/_tooltips.less",
-		"/C/src/Csn.Styleguide/src/less/base/_reset.less",
-		"/C/src/Csn.Styleguide/src/less/components/_site_nav.less",
-		"/C/src/Csn.Styleguide/site/carsales/site-nav-demo.html",
-		"/C/src/Csn.Styleguide/DELIVERABLES-2013-12-20.TODO",
-		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-jade/node_modules/jade/node_modules/transformers/node_modules/uglify-js/node_modules/optimist/example/boolean_double.js",
-		"/C/src/Csn.Styleguide/node_modules/grunt-html-validation/node_modules/request/tests/test-oauth.js",
-		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/tests/test-isUrl.js",
-		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/import-subfolder1.less",
-		"/C/src/Csn.Styleguide/src/less/patterns/_dropdowns.less",
-		"/C/src/Csn.Styleguide/src/less/skin/carsales/skin-carsales.less",
-		"/C/src/Csn.Styleguide/src/less/patterns/_forms.less",
-		"/C/src/Csn.Styleguide/src/less/patterns/_iconfonts.less",
-		"/C/src/Csn.Styleguide/src/less/patterns/_buttons.less",
-		"/C/src/Csn.Styleguide/src/styleguide-template/public/kss.less",
-		"/C/src/Csn.Styleguide/src/less/skin/common/common.less",
-		"/C/src/Admin/Csn.Carsales.Admin/Views/Patterns/Index.cshtml",
-		"/C/src/Csn.Styleguide/src/less/structure/_layouts.less",
-		"/C/src/Csn.Styleguide/src/less/patterns/_pagination.less",
-		"/C/src/Csn.Styleguide/src/less/structure/_grid.less",
-		"/C/src/Csn.Styleguide/src/less/modules/_accordions.less",
-		"/C/src/Csn.Styleguide/src/less/patterns/_media.less",
-		"/C/src/Csn.Styleguide/src/less/patterns/_panels.less",
-		"/C/src/Csn.Styleguide/src/less/patterns/_carets.less",
-		"/C/src/Csn.Styleguide/src/less/patterns/_tables.less",
-		"/C/src/Csn.Styleguide/node_modules/grunt/node_modules/js-yaml/node_modules/argparse/lib/action_container.js",
-		"/C/src/Csn.Styleguide/node_modules/.bin/autoprefixer",
-		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-less/node_modules/less/test/less/media.less",
-		"/C/src/Csn.Styleguide/node_modules/grunt-styleguide/node_modules/stylus/node_modules/cssom/lib/MediaList.js",
-		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-less/node_modules/less/test/css/media.css",
-		"/C/src/Csn.Styleguide/node_modules/.bin/md2html",
-		"/C/src/Csn.Styleguide/node_modules/grunt-contrib-less/node_modules/less/test/less/errors/bad-variable-declaration1.less",
-		"/C/src/Csn.Styleguide/node_modules/grunt-styleguide/test/expected/styledocco/docs/bootstrap/less/components-variables.html"
+		"/C/src/Csn.Styleguide/src/less/components/_tabs.less"
 	],
 	"find":
 	{
-		"height": 36.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
 		"height": 90.0,
 		"where_history":
 		[
+			"*.html,-dist/,-*/.grunt/",
+			"*.html,-dist/,-.grunt",
+			"*.html,-dist/",
+			"*.html",
+			"",
 			"*.scss",
 			"*.less",
 			"",
@@ -562,6 +543,46 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"#1e5799",
+			"impress-on",
+			"Press the P\nkey to access the notes console.",
+			"No Notes",
+			"ound: pink;\n  borde",
+			"#",
+			"\"scale\": 1",
+			"h3",
+			"q",
+			"li",
+			"impress-on",
+			"30deg",
+			"90deg",
+			"10deg",
+			"rotateY",
+			"2s",
+			"img",
+			"red",
+			"second",
+			"right",
+			"left",
+			"width",
+			"li",
+			"p",
+			"q",
+			"dest/",
+			"dest",
+			"grunt-",
+			"6000",
+			"\"x\"",
+			"3000",
+			"rotate-x",
+			"\"y\"",
+			"data",
+			"rotate-z",
+			"1500",
+			"5000",
+			"rotate-x",
+			"models",
+			"h2",
 			"watch",
 			"bodyBackground",
 			"index",
@@ -649,47 +670,7 @@
 			"fue",
 			"4",
 			"Name Of Section",
-			".panel",
-			"@media",
-			"media",
-			"4",
-			"media",
-			"primary-price",
-			".site-body",
-			"has-sidebar",
-			"is-valigned",
-			"media-body",
-			"COLOUR",
-			"keyfea",
-			".gallery-status",
-			"modal-body",
-			".is-modal",
-			"line-height",
-			"Do you want to trade in?",
-			"radio",
-			".de-emp",
-			"h1",
-			"ajax-link",
-			"icon-arrow-",
-			"accordion",
-			"body",
-			".Comments",
-			"Seller's comments",
-			"line-height",
-			"label",
-			"error",
-			".field-validation-error",
-			"@large-padding",
-			"@base-padding",
-			"red",
-			"-",
-			"+",
-			"|",
-			"height",
-			"1b1b1b",
-			".media-gallery-header",
-			".popup-media-gallery",
-			"mediagalleryinpop"
+			".panel"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -730,32 +711,35 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "css/main.scss",
+					"file": "examples/precompiler01.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 417,
+						"buffer_size": 2813,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								356,
-								356
+								982,
+								982
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/InactivePanes_/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -766,19 +750,19 @@
 				},
 				{
 					"buffer": 1,
-					"file": "css/main.css",
+					"file": "examples/oocss01.less",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 86,
+						"buffer_size": 406,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								212,
+								212
 							]
 						],
 						"settings":
@@ -786,170 +770,76 @@
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "Gruntfile.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2081,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								842,
-								842
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 95.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1654,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								401,
-								392
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 20.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "examples/precompiler02.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1246,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "bower_components/impress.js/css/impress-demo.css",
+					"buffer": 3,
+					"file": "examples/oocss02.less",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12745,
+						"buffer_size": 343,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								307,
-								307
+								343,
+								343
 							]
 						],
 						"settings":
 						{
+							"color_scheme": "Packages/InactivePanes_/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 							"incomplete_sync": null,
 							"remote_loading": false,
 							"synced": false,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "steps/list.json",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 578,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								435,
-								435
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "steps/basics.html",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 191,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"incomplete_sync": null,
-							"remote_loading": false,
-							"synced": false,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -963,7 +853,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 28.0
+		"height": 31.0
 	},
 	"input":
 	{
@@ -978,11 +868,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -1003,7 +900,7 @@
 	"project": "training-day-css.sublime-project",
 	"replace":
 	{
-		"height": 52.0
+		"height": 58.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1011,6 +908,166 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"mainscss",
+				"css\\main.scss"
+			],
+			[
+				"float",
+				"steps\\float.html"
+			],
+			[
+				"pre",
+				"steps\\precompilers.html"
+			],
+			[
+				"tools",
+				"steps\\tools.html"
+			],
+			[
+				"displ",
+				"steps\\display-modes.html"
+			],
+			[
+				"boxmode",
+				"steps\\box-model.html"
+			],
+			[
+				"speci",
+				"steps\\specificity.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"oohow",
+				"steps\\oocss-how.html"
+			],
+			[
+				"oo2",
+				"examples\\oocss02.less"
+			],
+			[
+				"specifi",
+				"steps\\specificity.html"
+			],
+			[
+				"oo01",
+				"examples\\oocss01.less"
+			],
+			[
+				"oocss02",
+				"examples\\oocss02.less"
+			],
+			[
+				"example",
+				"steps\\oocss-example.html"
+			],
+			[
+				"list",
+				"steps\\list.json"
+			],
+			[
+				"oocsshtml",
+				"steps\\oocss.html"
+			],
+			[
+				"backwa",
+				"steps\\backwards-compatbility.html"
+			],
+			[
+				"oocss",
+				"steps\\oocss.html"
+			],
+			[
+				"boxmo",
+				"steps\\box-model.html"
+			],
+			[
+				"selectors",
+				"steps\\types-of-selectors.html"
+			],
+			[
+				"building",
+				"steps\\building-a-page-sans-background-images.html"
+			],
+			[
+				"backwards",
+				"steps\\backwards-compatbility.html"
+			],
+			[
+				"intro",
+				"bower_components\\jquery\\src\\intro.js"
+			],
+			[
+				"etc",
+				"steps\\etc.html"
+			],
+			[
+				"caniuse",
+				"steps\\caniusecom.html"
+			],
+			[
+				"maincss",
+				"css\\main.scss"
+			],
+			[
+				"idnex",
+				"index.html"
+			],
+			[
+				"boxmodel",
+				"steps\\box-model.html"
+			],
+			[
+				"box",
+				"steps\\box-model.html"
+			],
+			[
+				".scss",
+				"css\\main.scss"
+			],
+			[
+				"displaymodes",
+				"steps\\display-modes.html"
+			],
+			[
+				"display",
+				"steps\\display-models.html"
+			],
+			[
+				"anatom",
+				"steps\\anatomy-of-a-rule.html"
+			],
+			[
+				"li",
+				"steps\\list.json"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"2to",
+				"steps\\2to3.html"
+			],
+			[
+				"demo",
+				"bower_components\\impress.js\\css\\impress-demo.css"
+			],
+			[
+				"basic",
+				"steps\\basics.html"
+			],
+			[
+				"inde",
+				"index.html"
+			],
 			[
 				"listjson",
 				"steps\\list.json"
@@ -1054,10 +1111,6 @@
 			[
 				"jquery",
 				"scripts\\lib\\jquery.js"
-			],
-			[
-				"demo",
-				"demo.html"
 			],
 			[
 				"mixins",
@@ -1248,10 +1301,6 @@
 				"src\\less\\base\\_variables.less"
 			],
 			[
-				"grunt",
-				"Gruntfile.js"
-			],
-			[
 				"loaderless",
 				"src\\less\\patterns\\_loader.less"
 			],
@@ -1312,10 +1361,6 @@
 				"Content\\css\\themes\\_header.less"
 			],
 			[
-				"maincss",
-				"Content\\css\\main.css"
-			],
-			[
 				"mainless",
 				"Content\\css\\main.less"
 			],
@@ -1374,154 +1419,6 @@
 			[
 				"animations",
 				"Content\\css\\areas\\campaigns\\easy\\base\\animations.less"
-			],
-			[
-				"enquiryformcshtml",
-				"Areas\\Bnc\\Views\\ShowroomEnquiry\\EnquiryForm.cshtml"
-			],
-			[
-				"tooltips",
-				"Content\\css\\patterns\\_tooltips.less"
-			],
-			[
-				"utlity",
-				"Content\\css\\base\\_utility.less"
-			],
-			[
-				"galleryjs",
-				"Content\\scripts\\Modules\\mediaGallery.js"
-			],
-			[
-				"modalcshtml",
-				"Views\\Shared\\_ModalLayout.cshtml"
-			],
-			[
-				"galleryinpop",
-				"Views\\Gallery\\MediaGalleryInPopup.cshtml"
-			],
-			[
-				"webconfig",
-				"Web.config"
-			],
-			[
-				"reset",
-				"Content\\css\\base\\_reset.less"
-			],
-			[
-				"advert",
-				"Content\\css\\themes\\_adverts.less"
-			],
-			[
-				"sections",
-				"Content\\css\\themes\\_sections.less"
-			],
-			[
-				"accordionjs",
-				"Content\\scripts\\Modules\\accordion.js"
-			],
-			[
-				"paginationless",
-				"Content\\css\\patterns\\_pagination.less"
-			],
-			[
-				"layoutcshtml",
-				"Views\\Shared\\_TwoColumnRightLayout.cshtml"
-			],
-			[
-				"mediagallery",
-				"Views\\Gallery\\MediaGalleryInPopup.cshtml"
-			],
-			[
-				"bncdetailscshtml",
-				"Areas\\Bnc\\Views\\Details\\Details.cshtml"
-			],
-			[
-				"itemslider",
-				"Content\\scripts\\lib\\itemSlider.js"
-			],
-			[
-				"formless",
-				"Content\\css\\patterns\\_forms.less"
-			],
-			[
-				"quicklinks",
-				"Areas\\Showroom\\Views\\Details\\QuickLinks.cshtml"
-			],
-			[
-				"header",
-				"Content\\css\\themes\\_header.less"
-			],
-			[
-				"iconfon",
-				"Content\\css\\patterns\\_iconfonts.less"
-			],
-			[
-				"bncoverview",
-				"Areas\\Bnc\\Views\\Details\\Overview.cshtml"
-			],
-			[
-				"lists",
-				"Content\\css\\patterns\\_lists.less"
-			],
-			[
-				"twocol",
-				"Views\\Shared\\_TwoColumnRightLayout.cshtml"
-			],
-			[
-				"detailsless",
-				"Content\\css\\themes\\bnc\\_details.less"
-			],
-			[
-				"_twocolumnrightlayout",
-				"Views\\Shared\\_TwoColumnRightLayout.cshtml"
-			],
-			[
-				"colorbox",
-				"Content\\scripts\\jquery.colorbox.js"
-			],
-			[
-				"modal",
-				"Content\\css\\modules\\_modal.less"
-			],
-			[
-				"cards",
-				"Content\\css\\patterns\\_cards.less"
-			],
-			[
-				"wells",
-				"Content\\css\\patterns\\_wells.less"
-			],
-			[
-				"tooltip",
-				"Content\\css\\patterns\\_tooltips.less"
-			],
-			[
-				"holdencss",
-				"Content\\css\\themes\\new-cars\\holden.css"
-			],
-			[
-				"bmwcss",
-				"Content\\css\\themes\\new-cars\\bmw.css"
-			],
-			[
-				"bmw",
-				"Content\\css\\themes\\new-cars\\bmw.css"
-			],
-			[
-				"holden",
-				"Content\\css\\themes\\new-cars\\holden.css"
-			],
-			[
-				"gallerycshtml",
-				"Views\\Gallery\\MediaGalleryPopup.cshtml"
-			],
-			[
-				"footerindex",
-				"Views\\Footer\\Index.cshtml"
-			],
-			[
-				"adverts",
-				"Content\\css\\themes\\_adverts.less"
 			]
 		],
 		"width": 0.0
@@ -1536,12 +1433,12 @@
 				"C:\\src\\csn.cars\\Csn.Carsales.Web\\Csn.Carsales.Web.sublime-project"
 			],
 			[
-				"mobi",
-				"C:\\src\\csn.cars\\Csn.Carsales.Mobi\\Csn.Carsales.Mobi.sublime-project"
+				"",
+				"C:\\Users\\ryan.margheriti\\Projects\\text-overflow-scroll.js\\text-overflow-scroll.js.sublime-project"
 			],
 			[
-				"",
-				"C:\\src\\UI.Library\\UI.Library.sublime-project"
+				"mobi",
+				"C:\\src\\csn.cars\\Csn.Carsales.Mobi\\Csn.Carsales.Mobi.sublime-project"
 			],
 			[
 				"merlin",
